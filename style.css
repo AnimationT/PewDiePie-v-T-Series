@@ -4,7 +4,11 @@
 
 span{
   font-weight: bold;
-  font-size: 50px;
+  font-size: 40px;
+}
+
+#plotTwistText{
+  font-size: 10px;
 }
 
 .subscriber-count-race {
@@ -24,6 +28,5 @@ span{
   font-size: 72px;
   font-weight: bold;
   color: green;
-  animation: race 5s linear infinite;
 }
 
